@@ -37,6 +37,7 @@ In my professional journey, I've successfully delivered a range of web projects,
     <img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png" alt="Authentication and Authorization Strategies" style="width: 50px; height: 50px; margin: 5px;">
     <img src="https://w7.pngwing.com/pngs/413/267/png-transparent-jwt-io-json-web-token-hd-logo.png" alt="Heroku" style="width: 50px; height: 50px; margin: 5px;">
     <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Netlify" style="width: 50px; height: 50px; margin: 5px;">
+    <img src="https://logowik.com/content/uploads/images/netlify-new-20234970.logowik.com.webp" alt="Netlify" style="width: 50px; height: 50px; margin: 5px;">
  
 </div>
 
