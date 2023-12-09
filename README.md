@@ -30,4 +30,11 @@ In my professional journey, I've successfully delivered a range of web projects,
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" style="width: 50px; margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 and CSS3" style="width: 50px; margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" style="width: 50px; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js and Express.js" style="width: 50px; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" style="width: 50px; margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="RESTful API Development" style="width: 50px; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/JSON_web_token_logo.svg" alt="Authentication and Authorization Strategies" style="width: 50px; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg" alt="Heroku" style="width: 50px; margin: 5px;">
+    <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="Netlify" style="width: 50px; margin: 5px;">
 </div>
+
