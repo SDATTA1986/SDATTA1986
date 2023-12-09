@@ -24,3 +24,8 @@ Hello there! 👋 I'm SOURAV DATTA, a passionate MERN stack-based full-stack web
 ## Work Description
 
 In my professional journey, I've successfully delivered a range of web projects, from dynamic single-page applications to complex full-stack solutions. I'm adept at collaborating with cross-functional teams to translate business requirements into technical solutions.
+
+# Tech Stack
+- ![React.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) **React.js:** Building dynamic and interactive user interfaces.
+- ![HTML5 and CSS3](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg) **HTML5 and CSS3, JavaScript (ES6+):** Crafting visually appealing and responsive designs.
+
