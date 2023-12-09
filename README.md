@@ -34,7 +34,7 @@ In my professional journey, I've successfully delivered a range of web projects,
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" alt="Node.js and Express.js" style="width: 50px; height: 50px; margin: 5px;">
     <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" alt="MongoDB" style="width: 50px; height: 50px; margin: 5px;">
     <img src="https://www.payoda.com/wp-content/uploads/2021/05/1_mbP4Bjrs8Hshx7IgjsUNSg.jpeg" alt="RESTful API Development" style="width: 50px; height: 50px; margin: 5px;">
-    <img src="https://firebase.google.com/static/images/brand-guidelines/logo-standard.png" alt="Authentication and Authorization Strategies" style="width: 50px; height: 50px; margin: 5px;">
+    <img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png" alt="Authentication and Authorization Strategies" style="width: 50px; height: 50px; margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg" alt="Heroku" style="width: 50px; height: 50px; margin: 5px;">
     <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="Netlify" style="width: 50px; height: 50px; margin: 5px;">
  
