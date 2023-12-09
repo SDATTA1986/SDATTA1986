@@ -41,5 +41,7 @@ In my professional journey, I've successfully delivered a range of web projects,
  
 </div>
 
+# My Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SDATTA1986)](https://git.io/streak-stats)
 
