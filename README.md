@@ -32,7 +32,7 @@ In my professional journey, I've successfully delivered a range of web projects,
     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="JavaScript" style="width: 50px; height: 50px; margin: 5px;">
    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" style="width: 50px; height: 50px; margin: 5px;">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js and Express.js" style="width: 50px; height: 50px; margin: 5px;">
-    <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" alt="MongoDB" style="width: 50px; height: 50px; margin: 5px;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" style="width: 50px; height: 50px; margin: 5px;">
     <img src="https://www.payoda.com/wp-content/uploads/2021/05/1_mbP4Bjrs8Hshx7IgjsUNSg.jpeg" alt="RESTful API Development" style="width: 50px; height: 50px; margin: 5px;">
     <img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png" alt="Authentication and Authorization Strategies" style="width: 50px; height: 50px; margin: 5px;">
     <img src="https://w7.pngwing.com/pngs/413/267/png-transparent-jwt-io-json-web-token-hd-logo.png" alt="Heroku" style="width: 50px; height: 50px; margin: 5px;">
