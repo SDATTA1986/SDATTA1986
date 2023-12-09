@@ -41,6 +41,5 @@ In my professional journey, I've successfully delivered a range of web projects,
  
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
-Copy To Clipboard
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
 
